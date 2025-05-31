@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deva Nanda</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devananda6200&label=Profile%20views&color=0e75b6&style=flat" alt="devananda6200" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devananda6200" alt="devananda6200" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced algorithms**
 
 - 👯 I’m looking to collaborate on **GenAI projects**
