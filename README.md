@@ -41,12 +41,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devananda6200&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=devananda6200&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=devananda6200&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=devananda6200&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devananda6200&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devananda6200&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150"/>
 </p>
 
 ---
