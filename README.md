@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Advanced Algorithms  
-- 👯 I’m looking to collaborate on GenAI projects  
+- 🌱 I'm currently learning Advanced Algorithms  
+- 👯 I'm looking to collaborate on GenAI projects  
 - 💬 Ask me about Machine Learning libraries  
 - 📫 How to reach me: devanandaproff@gmail.com  
 
